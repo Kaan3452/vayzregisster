@@ -2,10 +2,10 @@
 
 • Ayarlar - ayarlar.json
 
-• Oynuyor - events/ready.js
+• Durum - events/ready.js
 
 • Komutlar - komutlar/komutadı.js
 
-• Main - bot.js
+• Main Dosyası - bot.js
 
 • Motor - package.json
